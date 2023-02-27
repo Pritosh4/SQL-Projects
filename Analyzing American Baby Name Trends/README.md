@@ -14,6 +14,6 @@ We'll be answering the following questions:
 
 ## Datasets used
 The dataset used in this project is
-- <strong>baby_names</strong>
+- [usa_baby_names.csv](https://github.com/Pritosh4/SQL-Mini-Projects/blob/88bec80274ca783eab9c9723ae660cf148d3e32c/Analyzing%20American%20Baby%20Name%20Trends/usa_baby_names.csv "usa_baby_names.csv")
 
 
